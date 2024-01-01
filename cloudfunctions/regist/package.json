@@ -11,6 +11,6 @@
       "dependencies": {
             "request": "^2.88.0",
             "tcb-router": "^1.1.2",
-            "wx-server-sdk": "^0.8.1"
+            "wx-server-sdk": "^2.7.2"
       }
 }
